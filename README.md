@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple project using 2022 Stack Overflow survey data to demonstrate Python basics using venv, Pandas, Git, Git Bash, Git Hub and Markdown.
+<h4 align="center">A simple project using 2022 Stack Overflow survey data to demonstrate Python basics using venv, Pandas, Git, Git Bash, GitHub and Markdown.
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -25,11 +25,11 @@
 * f4
 
 ## Data Source
-Data for this analysis was obtained from the [2022 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2022/). 
+Data for this analysis was obtained from the [2022 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2022/). Main data is pulled from survey_results_public.csv which was too large to push to this repo. 
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
+To clone and run this, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
