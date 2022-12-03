@@ -2,6 +2,9 @@
 venv/
 .venv
 
+# Add jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
 # Csv is too large to push to Github
 data/survey_results_public.csv
 
