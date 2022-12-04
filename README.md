@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple project using 2022 Stack Overflow survey data to demonstrate Python basics using venv, Pandas, Git, Git Bash, GitHub and Markdown.
+<h4 align="center">Quick EDA and insights using 2022 Stack Overflow survey data to demonstrate some Python fundamentals.
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -15,14 +15,17 @@
   <a href="#contact">Contact Me</a>
 </p>
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/stackoverflow-color-icon.png" alt="so_logo" width="100"/><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas_logo" width="100"/><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git_logo" width="100"/>
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas_logo" width="50"/><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/stackoverflow-color-icon.png" alt="so_logo" width="50"/><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git_logo" width="50"/><img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="gpd_logo" width="50"/>
+
+
+<center><img src="PctKnowsPython_screenshot.jpg" alt="result" width="600"/></center>
 
 ## Key Features
 
-* f1
-* f2
-* f3
-* f4
+* EDA of StackOverFlow Dev survey 2022 using pandas
+* Quick analysis of pcts of respondents who work from home, know Python, etc.
+* Geopandas & folium mapping of pct respondents who know Python by country
+* Skills learned: venv, pd, gpd, git, git bash, github, markdown, html
 
 ## Data Source
 Data for this analysis was obtained from the [2022 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2022/). Main data is pulled from survey_results_public.csv which was too large to push to this repo. 
